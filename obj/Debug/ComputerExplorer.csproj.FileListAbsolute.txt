@@ -1,0 +1,6 @@
+c:\users\guhan.murugesan\documents\visual studio 2012\Projects\ComputerExplorer\ComputerExplorer\bin\Debug\ComputerExplorer.exe.config
+c:\users\guhan.murugesan\documents\visual studio 2012\Projects\ComputerExplorer\ComputerExplorer\bin\Debug\ComputerExplorer.exe
+c:\users\guhan.murugesan\documents\visual studio 2012\Projects\ComputerExplorer\ComputerExplorer\bin\Debug\ComputerExplorer.pdb
+c:\users\guhan.murugesan\documents\visual studio 2012\Projects\ComputerExplorer\ComputerExplorer\obj\Debug\ComputerExplorer.csprojResolveAssemblyReference.cache
+c:\users\guhan.murugesan\documents\visual studio 2012\Projects\ComputerExplorer\ComputerExplorer\obj\Debug\ComputerExplorer.exe
+c:\users\guhan.murugesan\documents\visual studio 2012\Projects\ComputerExplorer\ComputerExplorer\obj\Debug\ComputerExplorer.pdb
